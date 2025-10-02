@@ -25,7 +25,9 @@
    ```bash
    git clone https://github.com/zohimussawar/Portfolio.git
 # Add screenshots so visitors quickly see  portfolio:
-https://github.com/user-attachments/assets/df710627-e8ce-4267-a604-428a0fb6a2a5
+<img width="1830" height="1357" alt="image" src="https://github.com/user-attachments/assets/c9a9f18e-f821-48d2-b2a3-549d4ec62e5c" />
+<img width="1945" height="1300" alt="image" src="https://github.com/user-attachments/assets/ca6e2936-63fc-478a-8c16-c20982083e1b" />
+
 <img width="1812" height="1085" alt="image" src="https://github.com/user-attachments/assets/76d264e3-04a4-4687-a1dd-eef5e7cbed81" />
 
 
