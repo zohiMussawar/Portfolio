@@ -26,6 +26,8 @@
    git clone https://github.com/zohimussawar/Portfolio.git
 # Add screenshots so visitors quickly see  portfolio:
 https://github.com/user-attachments/assets/df710627-e8ce-4267-a604-428a0fb6a2a5
+<img width="1812" height="1085" alt="image" src="https://github.com/user-attachments/assets/76d264e3-04a4-4687-a1dd-eef5e7cbed81" />
+
 
 ## Contact
 - Email: zujajamussawar123@gmail.com
